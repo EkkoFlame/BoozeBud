@@ -6,3 +6,5 @@ testing branching
 
 On feature/new-feature branch:
 Adding stuff to feature/new-feature branch
+
+Adding text from Nino Kompjuter Centar
