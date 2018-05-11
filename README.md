@@ -9,3 +9,5 @@ Adding stuff to feature/new-feature branch
 
 Adding text from Nino Kompjuter Centar.
 And adding first tag. 0.0.1
+
+Nino MacBook Code here. Tag 0.0.2
